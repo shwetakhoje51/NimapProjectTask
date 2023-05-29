@@ -1,0 +1,5 @@
+{
+    "product_name" : "Realme10Pro",
+    "product_desc" : "Mobile Phone",
+    "product_price" : 15000.00
+}
